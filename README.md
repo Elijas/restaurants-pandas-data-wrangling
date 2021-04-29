@@ -1,3 +1,5 @@
+**[View the solution](https://nbviewer.jupyter.org/github/Elijas/restaurants-pandas-data-wrangling/blob/master/main.ipynb)**
+
 # Description
 This is a Pandas solution to a data wrangling task.
 
